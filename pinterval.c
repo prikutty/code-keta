@@ -2,7 +2,7 @@
 int main()
 {
 int l,i,h,f;
-scanf"%d%d",&l,&h);
+scanf("%d%d",&l,&h);
 while(l<h)
 {
 f=0;
